@@ -1,6 +1,6 @@
 import React from 'react'
 import "./login.css"
-const signup = () => {
+const login = () => {
   return (
     <section id="#register" className='register'>
         <div className='main-container'>
